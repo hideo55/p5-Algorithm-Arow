@@ -1,0 +1,6 @@
+name = "Algorithm-ArowPP"
+# badges = ["travis"]
+authority="cpan:HIDEAKIO"
+
+module_maker="ModuleBuildTiny"
+
