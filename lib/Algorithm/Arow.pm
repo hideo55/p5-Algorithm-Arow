@@ -1,13 +1,11 @@
-package Algorithm::ArowPP;
+package Algorithm::Arow;
 use 5.008005;
 use strict;
 use warnings;
-use XSLoader;
 
-BEGIN {
-    our $VERSION = '0.01';
-    XSLoader::load __PACKAGE__, $VERSION;
-}
+our $VERSION = "0.01";
+
+
 
 1;
 __END__
@@ -16,15 +14,15 @@ __END__
 
 =head1 NAME
 
-Algorithm::ArowPP - Implementation of AROW(Adaptive Regularization of Weights).
+Algorithm::Arow - It's new $module
 
 =head1 SYNOPSIS
 
-    use Algorithm::ArowPP;
+    use Algorithm::Arow;
 
 =head1 DESCRIPTION
 
-Algorithm::ArowPP is ...
+Algorithm::Arow is ...
 
 =head1 LICENSE
 
