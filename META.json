@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-   "abstract" : "Implementation of AROW(Adaptive Regularization of Weights).",
-=======
-   "abstract" : "It's new $module",
->>>>>>> 0db2629c00d129dc3f4d7b0adb82ea6c0dcbe9bd
+   "abstract" : "Implementation of AROW(Adaptive Regularization of Weights)",
    "author" : [
       "hideo55 <hide.o.j55@gmail.com>"
    ],
@@ -16,11 +12,7 @@
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : "2"
    },
-<<<<<<< HEAD
-   "name" : "Algorithm-ArowPP",
-=======
    "name" : "Algorithm-Arow",
->>>>>>> 0db2629c00d129dc3f4d7b0adb82ea6c0dcbe9bd
    "no_index" : {
       "directory" : [
          "t",
@@ -60,6 +52,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/hideo55/p5-Algorithm-Arow/issues"
+      },
+      "homepage" : "https://github.com/hideo55/p5-Algorithm-Arow",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/hideo55/p5-Algorithm-Arow.git",
+         "web" : "https://github.com/hideo55/p5-Algorithm-Arow"
+      }
+   },
    "version" : "0.01",
    "x_authority" : "cpan:HIDEAKIO"
 }

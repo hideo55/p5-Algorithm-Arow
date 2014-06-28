@@ -1,6 +1,6 @@
 # NAME
 
-Algorithm::Arow - It's new $module
+Algorithm::Arow - Implementation of AROW(Adaptive Regularization of Weights)
 
 # SYNOPSIS
 
@@ -12,11 +12,11 @@ Algorithm::Arow is ...
 
 # LICENSE
 
-Copyright (C) Hideaki Ohno.
+Copyright (C) hideo55.
 
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
 # AUTHOR
 
-Hideaki Ohno <hide.o.j55@gmail.com>
+hideo55 <hide.o.j55@gmail.com>

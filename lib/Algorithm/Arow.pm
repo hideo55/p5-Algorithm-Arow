@@ -14,7 +14,7 @@ __END__
 
 =head1 NAME
 
-Algorithm::Arow - It's new $module
+Algorithm::Arow - Implementation of AROW(Adaptive Regularization of Weights)
 
 =head1 SYNOPSIS
 
